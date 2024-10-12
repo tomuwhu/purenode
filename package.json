@@ -1,0 +1,23 @@
+{
+  "name": "purenode",
+  "version": "1.0.0",
+  "description": "Ez ugyan semmit se csinál, nem is fog",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "purenode"
+  },
+  "keywords": [
+    "nincs",
+    "semmi"
+  ],
+  "author": "Én",
+  "license": "MIT",
+  "dependencies": {
+    "levenshtein": "^1.0.5",
+    "spque": "^1.1.2"
+  }
+}
